@@ -1,4 +1,4 @@
-# The Hedera Handbook
+# The Hedera Handbook [WiP]
 
 Welcome. This is EasyA's legendary handbook. If you want to learn Hedera like a legend, then you're in the right place.
 
